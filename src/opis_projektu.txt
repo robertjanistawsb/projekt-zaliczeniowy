@@ -1,0 +1,4 @@
+Projekt dotyczy aplikacji pomagającej studentom zarządzać notatkami i materiałami do nauki. 
+Rozwiązuje problem rozproszenia informacji i trudności w szybkim odnalezieniu ważnych treści.
+Odbiorcami są osoby 18–25 lat, które chcą mieć porządek w notatkach i szybki dostęp do materiałów z wykładów. 
+Na pewno znajdą się: katalogowanie notatek, wyszukiwarka kontekstowa, tagowanie oraz tryb offline.

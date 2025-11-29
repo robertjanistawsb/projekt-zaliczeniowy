@@ -1,0 +1,31 @@
+ .--------.
+ | Student|
+ | (18-25)|
+ '---+----'
+     |
+ -----------------------------------------------
+ | Aplikacja do zarządzania notatkami          |
+ |                                              |
+ |   .----------------.    .----------------.   |
+ |   | Katalogowanie  |    | Wyszukiwarka    |   |
+ |   |   notatek      |    |  kontekstowa    |   |
+ |   '----------------'    '----------------'   |
+ |         |  ^                    ^            |
+ |         |  |                    |            |
+ |   .----------------.     .----------------.  |
+ |   |   Tagowanie     |<-- |  Filtrowanie /  |  |
+ |   |                |     |  ranking wyników|  |
+ |   '----------------'     '----------------'  |
+ |                                              |
+ |   .----------------.                         |
+ |   |   Tryb offline |                         |
+ |   | (przeglądanie, |                         |
+ |   |  edycja bez sieci)|                      |
+ |   '----------------'                         |
+ -----------------------------------------------
+
+Legenda:
+- Student łączy się ze wszystkimi przypadkami użycia.
+- "Tagowanie" wspomaga "Katalogowanie notatek".
+- Wyszukiwarka korzysta z tagów i kontekstu (filtrowanie / ranking wyników).
+- Tryb offline pozwala na przeglądanie i edycję bez połączenia z siecią.

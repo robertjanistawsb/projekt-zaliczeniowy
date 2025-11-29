@@ -1,0 +1,44 @@
+i. Inspiracje (słowa, skojarzenia, pomysły)
+- notatki, porządek, szybkie odnajdywanie
+- tagi, katalogowanie, foldery, kolekcje
+- wyszukiwarka kontekstowa, filtrowanie zaawansowane
+- offline-first, synchronizacja, konflikt merge
+- import (PDF, Markdown, obraz), OCR podstawowy
+- flashcards, podsumowania automatyczne, highlighty
+- skróty klawiszowe, tryb ciemny, responsywność
+- pinowanie, ulubione, przypomnienia przed egzaminem
+- metadata: wykład, przedmiot, prowadzący, data
+- UX: minimalizm, szybkie dodawanie, niskie tarcie
+
+ii. Krótka lista elementów projektu
+- interfejs użytkownika (web/mobile PWA)
+- lokalna baza danych (IndexedDB / SQLite)
+- API synchronizacji (opcjonalne)
+- silnik wyszukiwarki full-text
+- system tagów i kategorii
+- import/eksport (Markdown, PDF, JSON)
+- tryb offline i konfliktów
+- moduł OCR (opcjonalnie)
+- backend autoryzacji (opcjonalny)
+- testy jednostkowe i e2e
+
+iii. Wstępne dane wejściowe
+- lista kategorii: Wykłady, Ćwiczenia, Laboratoria, Projekty, Egzaminy, Notatki osobiste
+- lista funkcji priorytetowych:
+    1. Tworzenie/edycja notatki (tekst + załączniki)
+    2. Tagowanie i filtrowanie po tagach/kategoriach
+    3. Wyszukiwarka kontekstowa (słowa kluczowe, pełny tekst)
+    4. Tryb offline + synchronizacja
+    5. Import/eksport plików (md, pdf, json)
+    6. Przypomnienia i pinowanie
+    7. Widok listy + widok szczegółowy + tryb kart (flashcards)
+- przykładowe tagi startowe: #algorytmy, #bazy, #lab, #zadanie, #egzamin, #notatka
+- przykładowe metadane: {tytuł, przedmiot, prowadzący, data, tagi, ważność}
+
+iv. Lista źródeł pomysłu
+- własna potrzeba porządkowania materiałów ze studiów
+- obserwacje chaosu w notatkach współstudentów
+- sugestie znajomych (potrzeba trybu offline i szybkiego search)
+- istniejące aplikacje (Evernote, Notion, Anki) jako inspiracje funkcji
+- materiały kursów dotyczące UX i dostępności
+- przypadkowe rozwiązania znalezione na GitHub jako pomysły implementacyjne
